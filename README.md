@@ -10,3 +10,5 @@ so that the messages would be shared by all visitors across sessions. However,
 continuously moderate the demo site, so the code is set to use local storage.
 At least you can send messages to your future self. Perhaps you can use it as an 
 unorthodox to-do list, or a journal of very brief entries.
+
+You can see it at [https://jyaus.github.io/message-in-a-bubble/](https://jyaus.github.io/message-in-a-bubble/)
