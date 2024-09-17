@@ -37,7 +37,7 @@ export default function App() {
     return initialValue || placeholderArray;
   });
 
-  const [count, setCount] = useState(placeholderArray.length);
+  const [count, setCount] = useState(placeholderArray.length + 1);
   const messageRef = useRef();
 
   function addBubble() {
