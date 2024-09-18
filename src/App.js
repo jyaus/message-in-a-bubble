@@ -11,8 +11,6 @@ export default function App() {
       seedone: 1.234,
       seedtwo: 4.567,
       message: "sending out an LOL",
-
-
       popping: false,
     },
     {
@@ -23,7 +21,7 @@ export default function App() {
       popping: false,
     },
     {
-      id: 2,
+      id: 3,
       seedone: 3.45,
       seedtwo: 1.567,
       message: "I hope that someone gets my...",
