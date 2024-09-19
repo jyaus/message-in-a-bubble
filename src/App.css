@@ -44,7 +44,7 @@ main {
   aspect-ratio: 1;
   max-width: 150px;
   font-family: 'Signika', sans-serif;
-  background-color: hsl(calc(30 * var(--bubble-seed-one)) 90% 95% / .3);
+  background-color: hsl(calc(30 * var(--bubble-seed-one)) 90% 95% / .1);
   background-image: linear-gradient(to bottom, transparent, transparent 60%, hsl(0 100% 100% / .3));
   background-repeat: no-repeat;
   border: 3px solid hsl(0 0 60 / .2);
