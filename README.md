@@ -2,7 +2,12 @@
 _by Jeff Yaus_
 
 This is a toy project exploring the nature of emphemeral communication on the Internet.
-Users can create short messages in bubbles, and then click on bubbles to pop them forever.
+I also wanted to explore the interplay between JavaScript and CSS for handling the 
+randomization of the styling, and to experiment with using React instead of vanilla JS
+for state management.
+
+Users can create short messages, which will be sent out as bubbles.
+They can then click on those bubbles to pop them forever.
 
 You can see it at [https://jyaus.github.io/message-in-a-bubble/](https://jyaus.github.io/message-in-a-bubble/)
 
