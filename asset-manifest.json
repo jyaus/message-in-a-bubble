@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/message-in-a-bubble/static/css/main.f16812cb.css",
-    "main.js": "/message-in-a-bubble/static/js/main.ca683607.js",
-    "static/js/453.22353573.chunk.js": "/message-in-a-bubble/static/js/453.22353573.chunk.js",
-    "static/media/bubbles-bg.jpg": "/message-in-a-bubble/static/media/bubbles-bg.38737f999ede39fa7eec.jpg",
-    "index.html": "/message-in-a-bubble/index.html",
-    "main.f16812cb.css.map": "/message-in-a-bubble/static/css/main.f16812cb.css.map",
-    "main.ca683607.js.map": "/message-in-a-bubble/static/js/main.ca683607.js.map",
-    "453.22353573.chunk.js.map": "/message-in-a-bubble/static/js/453.22353573.chunk.js.map"
+    "main.css": "/lei-carousel/static/css/main.abf45866.css",
+    "main.js": "/lei-carousel/static/js/main.f1a37328.js",
+    "static/js/453.f6cf5b60.chunk.js": "/lei-carousel/static/js/453.f6cf5b60.chunk.js",
+    "index.html": "/lei-carousel/index.html",
+    "main.abf45866.css.map": "/lei-carousel/static/css/main.abf45866.css.map",
+    "main.f1a37328.js.map": "/lei-carousel/static/js/main.f1a37328.js.map",
+    "453.f6cf5b60.chunk.js.map": "/lei-carousel/static/js/453.f6cf5b60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f16812cb.css",
-    "static/js/main.ca683607.js"
+    "static/css/main.abf45866.css",
+    "static/js/main.f1a37328.js"
   ]
 }
